@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\bin\Debug\net7.0\Task 21.exe
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\bin\Debug\net7.0\Task 21.deps.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\bin\Debug\net7.0\Task 21.runtimeconfig.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\bin\Debug\net7.0\Task 21.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\bin\Debug\net7.0\Task 21.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\refint\Task 21.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\Task 21.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 21\obj\Debug\net7.0\ref\Task 21.dll
