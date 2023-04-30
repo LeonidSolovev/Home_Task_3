@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\bin\Debug\net7.0\Task 19.exe
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\bin\Debug\net7.0\Task 19.deps.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\bin\Debug\net7.0\Task 19.runtimeconfig.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\bin\Debug\net7.0\Task 19.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\bin\Debug\net7.0\Task 19.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\refint\Task 19.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\Task 19.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask3\Task 19\obj\Debug\net7.0\ref\Task 19.dll
